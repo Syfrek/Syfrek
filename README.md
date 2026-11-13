@@ -57,11 +57,9 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Syfrek/Syfrek/main/profile-summary-card-output/tokyonight/3-stats.svg" width="48%" alt="Stats" />
-<img src="https://raw.githubusercontent.com/Syfrek/Syfrek/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" alt="Langages" />
-
-<img src="https://raw.githubusercontent.com/Syfrek/Syfrek/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" alt="Dépôts par langage" />
-<img src="https://raw.githubusercontent.com/Syfrek/Syfrek/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="48%" alt="Moments productifs" />
+<img src="https://raw.githubusercontent.com/Syfrek/Syfrek/main/profile-summary-card-output/tokyonight/3-stats.svg" width="32%" alt="Stats" />
+<img src="https://raw.githubusercontent.com/Syfrek/Syfrek/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" alt="Langages" />
+<img src="https://raw.githubusercontent.com/Syfrek/Syfrek/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" alt="Dépôts par langage" />
 
 <br>
 
