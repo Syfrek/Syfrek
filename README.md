@@ -17,22 +17,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00babc&height=2&section=header" width="80%" alt="" />
 
-</div>
-
-<h2 align="center">👋 À propos</h2>
-
-<div align="center">
-
-🎓 Étudiant à **42 Paris**
-
-💻 Je code principalement en **C** et je touche un peu à tout ce qui est outils, scripts et automatisation
-
-🌱 Toujours en train d'apprendre, de tester et de construire de nouveaux projets
-
-🤝 Ouvert aux échanges, aux idées et aux collaborations
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00babc&height=2&section=header" width="80%" alt="" />
 
 </div>
